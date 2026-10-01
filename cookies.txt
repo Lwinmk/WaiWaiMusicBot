@@ -1,0 +1,12 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.youtube.com	TRUE	/	FALSE	1806392123	__Secure-BUCKET	COQG
+.youtube.com	TRUE	/	FALSE	1790841923	GPS	1
+.youtube.com	TRUE	/	FALSE	1825400125	PREF	tz=Asia.Rangoon
+.youtube.com	TRUE	/	FALSE	0	YSC	ahIpFGHJsoo
+.youtube.com	TRUE	/	FALSE	1806392448	VISITOR_INFO1_LIVE	Af-PgFN74I4
+.youtube.com	TRUE	/	FALSE	1806392448	VISITOR_PRIVACY_METADATA	CgJNTRIEGgAgIQ%3D%3D
+.youtube.com	TRUE	/	FALSE	1806392123	__Secure-YNID	22.YT=i909xogzflfNoF9dAiZCDidk-5dsniXEsY32bRhIK5C497mcI8-I0ufC8dUDI5SrJTaqlM6sQ4-8GPo-XhwCykFvGq6LZ6_n7Dn6hPYvbtrMk9SwNK4ujsnoNGVLHHct0CsAV3AkuOTO1Di6M7nFGC-U-lEJFt5qrIYbCAvuFz40HvhmmWOZJmf1IJjpukStQ3hGfnSXSu3h5WeeVjkN5LnVrRv19RI4tnaKKsjiknuBJjWO827ge4d-4RMp89dnYvs2eyJRwpbtnUHsCate5-gUZoeAkI25TH4PwCcZvdlD9fn9nd4pOi1Tuul99ek_k2YxKgm9OB2rzH-r6muWEA
+.youtube.com	TRUE	/	FALSE	1806392198	__Secure-ROLLOUT_TOKEN	CNT54azDxL_9URDrxpCrp5iXAxjg1_7Op5iXAxjg1_7Op5iXAw%3D%3D
